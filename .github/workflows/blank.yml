@@ -1,0 +1,31 @@
+name: CI
+on:
+  watch:
+    types: [started]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: 'main'
+        persist-credentials: false
+        fetch-depth: 0
+    - name: Create local changes
+      run: |
+        sudo rm -rf /etc/localtime
+        sudo ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+        sudo bash bash.sh
+        date +%Y.%m.%d_%T_执行成功>>run.log
+    - name: Commit files
+      run: |
+        git config --global user.email "1782898491@qq.com"
+        git config --global user.name "rentianyu"
+        git add .
+        git commit -m "Action auto push" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
