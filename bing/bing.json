@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "url": "https://file.alapi.cn/bing/2024/03/29/OHR.SouthStackLight_ZH-CN5932471774_1920x1080.jpg",
+    "startdate": "20240328",
+    "enddate": "20240329",
+    "copyright": "日落时的南斯塔克灯塔，霍利希德，威尔士，英国 (© mariotlr/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.SouthStackLight_ZH-CN5932471774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.SouthStackLight_ZH-CN5932471774_1920x1080.jpg"
+  },
+  "time": 1711664112,
+  "usage": 0,
+  "log_id": "632098859974209536"
+}
