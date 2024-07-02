@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "url": "https://file.alapi.cn/bing/2024/07/03/OHR.MeerkatManor_ZH-CN2486051161_1920x1080.jpg",
+    "startdate": "20240702",
+    "enddate": "20240703",
+    "copyright": "猫鼬家族 (© anetapics/Shutterstock)",
+    "bing": "https://cn.bing.com//th?id=OHR.MeerkatManor_ZH-CN2486051161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.MeerkatManor_ZH-CN2486051161_1920x1080.jpg"
+  },
+  "time": 1719937473,
+  "usage": 0,
+  "log_id": "666799853269270528"
+}
