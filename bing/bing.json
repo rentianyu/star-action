@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "url": "https://file.alapi.cn/bing/2024/08/10/OHR.JoshuaTreeNP_ZH-CN5917576674_1920x1080.jpg",
+    "startdate": "20240809",
+    "enddate": "20240810",
+    "copyright": "约书亚树国家公园，加利福尼亚州，美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+    "bing": "https://cn.bing.com//th?id=OHR.JoshuaTreeNP_ZH-CN5917576674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.JoshuaTreeNP_ZH-CN5917576674_1920x1080.jpg"
+  },
+  "time": 1723223828,
+  "usage": 0,
+  "log_id": "680583826013913088"
+}
