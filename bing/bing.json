@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "url": "https://file.alapi.cn/bing/2024/10/18/OHR.CentralParkAutumn_ZH-CN2757358246_1920x1080.jpg",
+    "startdate": "20241017",
+    "enddate": "20241018",
+    "copyright": "曼哈顿中央公园的秋天，纽约，美国 (© mapman/Shutterstock)",
+    "bing": "https://cn.bing.com//th?id=OHR.CentralParkAutumn_ZH-CN2757358246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.CentralParkAutumn_ZH-CN2757358246_1920x1080.jpg"
+  },
+  "time": 1729215644,
+  "usage": 0,
+  "log_id": "705715321643040768"
+}
