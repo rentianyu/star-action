@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "url": "https://file.alapi.cn/bing/2024/10/22/OHR.MonsterDoor_ZH-CN6613337019_1920x1080.jpg",
+    "startdate": "20241021",
+    "enddate": "20241022",
+    "copyright": "祖卡里宫，罗马，意大利 (© Photon-Photos/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.MonsterDoor_ZH-CN6613337019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.MonsterDoor_ZH-CN6613337019_1920x1080.jpg"
+  },
+  "time": 1729535322,
+  "usage": 0,
+  "log_id": "707056145475792896"
+}
