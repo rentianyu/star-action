@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "url": "https://file.alapi.cn/bing/2024/10/25/OHR.MontBlancMassif_ZH-CN9172264924_1920x1080.jpg",
+    "startdate": "20241024",
+    "enddate": "20241025",
+    "copyright": "沙莫尼的勃朗峰，法国 (© Simon Schöpf/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.MontBlancMassif_ZH-CN9172264924_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.MontBlancMassif_ZH-CN9172264924_1920x1080.jpg"
+  },
+  "time": 1729812026,
+  "usage": 0,
+  "log_id": "708216726312452096"
+}
