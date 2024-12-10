@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "url": "https://file.alapi.cn/bing/2024/12/10/OHR.CornwallSnow_ZH-CN8407245245_1920x1080.jpg",
+    "startdate": "20241209",
+    "enddate": "20241210",
+    "copyright": "被雪覆盖的康沃尔天涯海角小径，康沃尔郡兰德恩德，英格兰 (© Josef FitzGerald-Patrick/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.CornwallSnow_ZH-CN8407245245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.CornwallSnow_ZH-CN8407245245_1920x1080.jpg"
+  },
+  "time": 1733812321,
+  "usage": 0,
+  "log_id": "724995182228758528"
+}
