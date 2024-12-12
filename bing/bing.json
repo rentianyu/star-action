@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "url": "https://file.alapi.cn/bing/2024/12/12/OHR.WildPoinsettia_ZH-CN7984548709_1920x1080.jpg",
+    "startdate": "20241211",
+    "enddate": "20241212",
+    "copyright": "一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)",
+    "bing": "https://cn.bing.com//th?id=OHR.WildPoinsettia_ZH-CN7984548709_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.WildPoinsettia_ZH-CN7984548709_1920x1080.jpg"
+  },
+  "time": 1733992170,
+  "usage": 0,
+  "log_id": "725749524871417856"
+}
