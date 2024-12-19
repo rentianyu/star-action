@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "url": "https://file.alapi.cn/bing/2024/12/19/OHR.SibiuRomania_ZH-CN1631942857_1920x1080.jpg",
+    "startdate": "20241218",
+    "enddate": "20241219",
+    "copyright": "锡比乌圣诞市场，罗马尼亚 (© Calin Stan/Alamy Stock Photo)",
+    "bing": "https://cn.bing.com//th?id=OHR.SibiuRomania_ZH-CN1631942857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.SibiuRomania_ZH-CN1631942857_1920x1080.jpg"
+  },
+  "time": 1734621777,
+  "usage": 0,
+  "log_id": "728390285098151936"
+}
