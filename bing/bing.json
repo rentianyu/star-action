@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "url": "https://file.alapi.cn/bing/2024/12/20/OHR.SantaClausVillage_ZH-CN1839275027_1920x1080.jpg",
+    "startdate": "20241219",
+    "enddate": "20241220",
+    "copyright": "罗瓦涅米圣诞老人村，拉普兰，芬兰 (© Smelov/Shutterstock)",
+    "bing": "https://cn.bing.com//th?id=OHR.SantaClausVillage_ZH-CN1839275027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.SantaClausVillage_ZH-CN1839275027_1920x1080.jpg"
+  },
+  "time": 1734643141,
+  "usage": 0,
+  "log_id": "728479888400379904"
+}
