@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "url": "https://file.alapi.cn/bing/2024/12/22/OHR.CrystalPier_ZH-CN2256372880_1920x1080.jpg",
+    "startdate": "20241221",
+    "enddate": "20241222",
+    "copyright": "水晶码头的圣诞树，太平洋海滩，加利福尼亚州，美国 (© SamAntonioPhotography/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.CrystalPier_ZH-CN2256372880_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.CrystalPier_ZH-CN2256372880_1920x1080.jpg"
+  },
+  "time": 1734812432,
+  "usage": 0,
+  "log_id": "729189946608324608"
+}

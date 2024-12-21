@@ -1,0 +1,14 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "date": "2024-12-22",
+    "news": [],
+    "weiyu": "1、20日早，云南富源一煤矿溃仓事故致3名矿工死亡，主管部门：煤矿正在接受检查；",
+    "image": "https://file.alapi.cn/60s/202412221734801606.png",
+    "head_image": "https://file.alapi.cn/60s/202412221734801606_head.png"
+  },
+  "time": 1734812428,
+  "usage": 0,
+  "log_id": "729189935300481024"
+}
