@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "url": "https://file.alapi.cn/bing/2024/12/25/OHR.CovadongaWinter_ZH-CN2873340163_1920x1080.jpg",
+    "startdate": "20241224",
+    "enddate": "20241225",
+    "copyright": "科瓦东加湖，阿斯图里亚斯，西班牙 (© Carlos Fernandez/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.CovadongaWinter_ZH-CN2873340163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.CovadongaWinter_ZH-CN2873340163_1920x1080.jpg"
+  },
+  "time": 1735090800,
+  "usage": 0,
+  "log_id": "730357511296651264"
+}
