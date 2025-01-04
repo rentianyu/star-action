@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/01/04/OHR.VietnamFalls_ZH-CN9659529108_1920x1080.jpg",
+    "startdate": "20250103",
+    "enddate": "20250104",
+    "copyright": "归春河上的板约-德天瀑布，中国与越南边境 (© Shane P. White/Minden Pictures)",
+    "bing": "https://cn.bing.com//th?id=OHR.VietnamFalls_ZH-CN9659529108_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.VietnamFalls_ZH-CN9659529108_1920x1080.jpg"
+  },
+  "time": 1735964646,
+  "usage": 0,
+  "log_id": "734022685274677248"
+}
