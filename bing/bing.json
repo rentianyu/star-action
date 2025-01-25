@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/01/25/OHR.PortoSunset_ZH-CN2388246668_1920x1080.jpg",
+    "startdate": "20250124",
+    "enddate": "20250125",
+    "copyright": "波尔图，葡萄牙 (© Starcevic/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.PortoSunset_ZH-CN2388246668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.PortoSunset_ZH-CN2388246668_1920x1080.jpg"
+  },
+  "time": 1737772848,
+  "usage": 0,
+  "log_id": "741606835347423232"
+}
