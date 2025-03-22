@@ -1,0 +1,16 @@
+{
+  "request_id": "762121062920122368",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/03/23/OHR.NebraskaStorm_ZH-CN6944682381_1920x1080.jpg",
+    "startdate": "20250322",
+    "enddate": "20250323",
+    "copyright": "鲍曼附近日落时分的闪电和风暴云，布拉斯加州，美国 (© john finney photography/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.NebraskaStorm_ZH-CN6944682381_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.NebraskaStorm_ZH-CN6944682381_1920x1080.jpg"
+  },
+  "time": 1742663820,
+  "usage": 0
+}
