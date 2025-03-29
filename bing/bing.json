@@ -1,0 +1,16 @@
+{
+  "request_id": "764645106656083968",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/03/29/OHR.CarrizoBloom_ZH-CN7967467357_1920x1080.jpg",
+    "startdate": "20250328",
+    "enddate": "20250329",
+    "copyright": "卡里佐平原国家纪念碑的超级花期，加利福尼亚州，美国 (© Robb Hirsch/TANDEM Stills + Motion)",
+    "bing": "https://cn.bing.com//th?id=OHR.CarrizoBloom_ZH-CN7967467357_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.CarrizoBloom_ZH-CN7967467357_1920x1080.jpg"
+  },
+  "time": 1743265599,
+  "usage": 0
+}
