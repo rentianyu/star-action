@@ -1,0 +1,16 @@
+{
+  "request_id": "767194545128640512",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/04/06/OHR.ShardLondon2025_ZH-CN0722863055_1920x1080.jpg",
+    "startdate": "20250405",
+    "enddate": "20250406",
+    "copyright": "碎片大厦，伦敦 (© Dennis Fischer Photography/Moment/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.ShardLondon2025_ZH-CN0722863055_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.ShardLondon2025_ZH-CN0722863055_1920x1080.jpg"
+  },
+  "time": 1743873433,
+  "usage": 0
+}
