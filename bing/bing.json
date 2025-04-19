@@ -1,0 +1,16 @@
+{
+  "request_id": "772268209579577344",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/04/20/OHR.BunnyLove_ZH-CN1145897965_1920x1080.jpg",
+    "startdate": "20250419",
+    "enddate": "20250420",
+    "copyright": "春天里的野生小兔子 (© Fiona McAllister Photography/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.BunnyLove_ZH-CN1145897965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.BunnyLove_ZH-CN1145897965_1920x1080.jpg"
+  },
+  "time": 1745083089,
+  "usage": 0
+}
