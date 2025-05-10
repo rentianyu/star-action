@@ -1,0 +1,16 @@
+{
+  "request_id": "779849167972925440",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/05/10/OHR.Castildetierra_ZH-CN6042529770_1920x1080.jpg",
+    "startdate": "20250509",
+    "enddate": "20250510",
+    "copyright": "巴尔德纳斯雷亚尔斯自然公园的卡斯蒂尔德蒂拉，纳瓦拉，西班牙 (© Eloi_Omella/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.Castildetierra_ZH-CN6042529770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.Castildetierra_ZH-CN6042529770_1920x1080.jpg"
+  },
+  "time": 1746890530,
+  "usage": 0
+}
