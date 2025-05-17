@@ -1,0 +1,16 @@
+{
+  "request_id": "782402470137634816",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/05/17/OHR.VeniceLagoon_ZH-CN3791408491_1920x1080.jpg",
+    "startdate": "20250516",
+    "enddate": "20250517",
+    "copyright": "威尼斯潟湖中的三角洲, 意大利 (© Dimitri Weber/Amazing Aerial Agency)",
+    "bing": "https://cn.bing.com//th?id=OHR.VeniceLagoon_ZH-CN3791408491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.VeniceLagoon_ZH-CN3791408491_1920x1080.jpg"
+  },
+  "time": 1747499285,
+  "usage": 0
+}
