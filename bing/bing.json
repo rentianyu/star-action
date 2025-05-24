@@ -1,0 +1,16 @@
+{
+  "request_id": "784938918406066176",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/05/24/OHR.JotunheimenPark_ZH-CN7417034574_1920x1080.jpg",
+    "startdate": "20250523",
+    "enddate": "20250524",
+    "copyright": "挪威尤通黑门山国家公园 (© Marisa Estivill/Shutterstock)",
+    "bing": "https://cn.bing.com//th?id=OHR.JotunheimenPark_ZH-CN7417034574_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.JotunheimenPark_ZH-CN7417034574_1920x1080.jpg"
+  },
+  "time": 1748104021,
+  "usage": 0
+}
