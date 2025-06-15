@@ -1,0 +1,16 @@
+{
+  "request_id": "792924704055566336",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/06/16/OHR.SeaTurtleBrazil_ZH-CN6907161064_1920x1080.jpg",
+    "startdate": "20250615",
+    "enddate": "20250616",
+    "copyright": "海龟，费尔南多·迪诺罗尼亚群岛，巴西 (© João Vianna/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.SeaTurtleBrazil_ZH-CN6907161064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.SeaTurtleBrazil_ZH-CN6907161064_1920x1080.jpg"
+  },
+  "time": 1750007981,
+  "usage": 0
+}
