@@ -1,0 +1,16 @@
+{
+  "request_id": "795069639224049664",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/06/21/OHR.SummerSolsticeY25_ZH-CN2728972774_1920x1080.jpg",
+    "startdate": "20250620",
+    "enddate": "20250621",
+    "copyright": "雾中莲花，中国佛山 (© huoguangliang/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.SummerSolsticeY25_ZH-CN2728972774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.SummerSolsticeY25_ZH-CN2728972774_1920x1080.jpg"
+  },
+  "time": 1750519373,
+  "usage": 0
+}
