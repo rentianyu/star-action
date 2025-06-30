@@ -1,0 +1,16 @@
+{
+  "request_id": "798130637653417984",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/06/30/OHR.WolfeCrater_ZH-CN1652906326_1920x1080.jpg",
+    "startdate": "20250629",
+    "enddate": "20250630",
+    "copyright": "沃尔夫溪陨石坑, 澳大利亚 (© Abstract Aerial Art/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.WolfeCrater_ZH-CN1652906326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.WolfeCrater_ZH-CN1652906326_1920x1080.jpg"
+  },
+  "time": 1751249172,
+  "usage": 0
+}
