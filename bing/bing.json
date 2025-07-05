@@ -1,0 +1,16 @@
+{
+  "request_id": "800172954506240000",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/07/06/OHR.MesquiteFlats_ZH-CN7152959188_1920x1080.jpg",
+    "startdate": "20250705",
+    "enddate": "20250706",
+    "copyright": "死亡谷国家公园的梅斯基特平原沙丘，加利福尼亚州，美国 (© Bryan Jolley/TANDEM Stills + Motion)",
+    "bing": "https://cn.bing.com//th?id=OHR.MesquiteFlats_ZH-CN7152959188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.MesquiteFlats_ZH-CN7152959188_1920x1080.jpg"
+  },
+  "time": 1751736098,
+  "usage": 0
+}
