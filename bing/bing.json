@@ -1,0 +1,16 @@
+{
+  "request_id": "815379695090593792",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/08/16/OHR.ColorfulBeehives_ZH-CN0180195770_1920x1080.jpg",
+    "startdate": "20250815",
+    "enddate": "20250816",
+    "copyright": "色彩斑斓的蜂巢, 意大利 (© Roberto Caucino/Shutterstock)",
+    "bing": "https://cn.bing.com//th?id=OHR.ColorfulBeehives_ZH-CN0180195770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.ColorfulBeehives_ZH-CN0180195770_1920x1080.jpg"
+  },
+  "time": 1755361668,
+  "usage": 0
+}
