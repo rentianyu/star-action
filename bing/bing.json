@@ -1,0 +1,16 @@
+{
+  "request_id": "818642157873811456",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/08/25/OHR.YellowstoneRiver_ZH-CN3716808579_1920x1080.jpg",
+    "startdate": "20250824",
+    "enddate": "20250825",
+    "copyright": "方解石温泉区和黄石河，黄石国家公园，怀俄明州，美国 (© Rebecca L. Latson/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.YellowstoneRiver_ZH-CN3716808579_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.YellowstoneRiver_ZH-CN3716808579_1920x1080.jpg"
+  },
+  "time": 1756139500,
+  "usage": 0
+}
