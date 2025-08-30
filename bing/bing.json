@@ -1,0 +1,16 @@
+{
+  "request_id": "820436303425380352",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/08/30/OHR.MaldivesWhaleShark_ZH-CN9975504316_1920x1080.jpg",
+    "startdate": "20250829",
+    "enddate": "20250830",
+    "copyright": "阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫 (© Bachir Moukarzel/Amazing Aerial Agency)",
+    "bing": "https://cn.bing.com//th?id=OHR.MaldivesWhaleShark_ZH-CN9975504316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.MaldivesWhaleShark_ZH-CN9975504316_1920x1080.jpg"
+  },
+  "time": 1756567257,
+  "usage": 0
+}
