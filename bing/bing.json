@@ -1,0 +1,16 @@
+{
+  "request_id": "823002309520240640",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/09/07/OHR.BlueGdansk_ZH-CN3328928509_1920x1080.jpg",
+    "startdate": "20250906",
+    "enddate": "20250907",
+    "copyright": "位于莫特拉瓦河河畔的格但斯克市，波兰 (© Oscar Dominguez/TANDEM Stills + Motion)",
+    "bing": "https://cn.bing.com//th?id=OHR.BlueGdansk_ZH-CN3328928509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.BlueGdansk_ZH-CN3328928509_1920x1080.jpg"
+  },
+  "time": 1757179041,
+  "usage": 0
+}
