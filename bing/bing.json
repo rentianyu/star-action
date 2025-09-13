@@ -1,0 +1,16 @@
+{
+  "request_id": "825525862082134016",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/09/13/OHR.PointReyesSeashore_ZH-CN0076789582_1920x1080.jpg",
+    "startdate": "20250912",
+    "enddate": "20250913",
+    "copyright": "烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国 (© Enrique Aguirre Aves/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.PointReyesSeashore_ZH-CN0076789582_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.PointReyesSeashore_ZH-CN0076789582_1920x1080.jpg"
+  },
+  "time": 1757780703,
+  "usage": 0
+}
