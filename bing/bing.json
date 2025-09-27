@@ -1,0 +1,16 @@
+{
+  "request_id": "830583213672501248",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/09/27/OHR.TankLakes_ZH-CN6402368934_1920x1080.jpg",
+    "startdate": "20250926",
+    "enddate": "20250927",
+    "copyright": "坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)",
+    "bing": "https://cn.bing.com//th?id=OHR.TankLakes_ZH-CN6402368934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.TankLakes_ZH-CN6402368934_1920x1080.jpg"
+  },
+  "time": 1758986469,
+  "usage": 0
+}
