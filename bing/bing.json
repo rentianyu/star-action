@@ -1,0 +1,16 @@
+{
+  "request_id": "833120031148736512",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/10/04/OHR.DragonEndeavour_ZH-CN8160066040_1920x1080.jpg",
+    "startdate": "20251003",
+    "enddate": "20251004",
+    "copyright": "从SpaceX载人龙飞船“奋进号”视角看到的国际空间站主太阳能电池阵列 (© NASA)",
+    "bing": "https://cn.bing.com//th?id=OHR.DragonEndeavour_ZH-CN8160066040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.DragonEndeavour_ZH-CN8160066040_1920x1080.jpg"
+  },
+  "time": 1759591294,
+  "usage": 0
+}
