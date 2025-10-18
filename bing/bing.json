@@ -1,0 +1,16 @@
+{
+  "request_id": "838252843129913344",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/10/19/OHR.AppleHarvest_ZH-CN7317228007_1920x1080.jpg",
+    "startdate": "20251018",
+    "enddate": "20251019",
+    "copyright": "即将收获的苹果，明尼苏达州，美国 (© Tammi Mild/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.AppleHarvest_ZH-CN7317228007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.AppleHarvest_ZH-CN7317228007_1920x1080.jpg"
+  },
+  "time": 1760815051,
+  "usage": 0
+}
