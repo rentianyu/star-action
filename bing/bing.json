@@ -1,0 +1,16 @@
+{
+  "request_id": "840746701764612096",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/10/25/OHR.MartimoaapaFinland_ZH-CN1066271356_1920x1080.jpg",
+    "startdate": "20251024",
+    "enddate": "20251025",
+    "copyright": "马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰 (© romikatarina/Shutterstock)",
+    "bing": "https://cn.bing.com//th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.MartimoaapaFinland_ZH-CN1066271356_1920x1080.jpg"
+  },
+  "time": 1761409634,
+  "usage": 0
+}
