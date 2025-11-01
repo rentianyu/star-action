@@ -1,0 +1,16 @@
+{
+  "request_id": "843314568385802240",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/11/02/OHR.KyotoMaple_ZH-CN4730358356_1920x1080.jpg",
+    "startdate": "20251101",
+    "enddate": "20251102",
+    "copyright": "岚山缤纷的枫叶与竹林, 京都, 日本 (© DoctorEgg/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.KyotoMaple_ZH-CN4730358356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.KyotoMaple_ZH-CN4730358356_1920x1080.jpg"
+  },
+  "time": 1762021861,
+  "usage": 0
+}
