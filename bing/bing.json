@@ -1,0 +1,16 @@
+{
+  "request_id": "848387903504347136",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/11/16/OHR.LyonTraboules_ZH-CN8476826325_1920x1080.jpg",
+    "startdate": "20251115",
+    "enddate": "20251116",
+    "copyright": "里昂的一条穿廊，法国 (© TPopova/Getty Images) 法国",
+    "bing": "https://cn.bing.com//th?id=OHR.LyonTraboules_ZH-CN8476826325_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.LyonTraboules_ZH-CN8476826325_1920x1080.jpg"
+  },
+  "time": 1763231438,
+  "usage": 0
+}
