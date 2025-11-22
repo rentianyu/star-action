@@ -1,0 +1,16 @@
+{
+  "request_id": "850924959317872640",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/11/23/OHR.MadgascarAmmonite_ZH-CN6497276091_1920x1080.jpg",
+    "startdate": "20251122",
+    "enddate": "20251123",
+    "copyright": "马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)",
+    "bing": "https://cn.bing.com//th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.MadgascarAmmonite_ZH-CN6497276091_1920x1080.jpg"
+  },
+  "time": 1763836319,
+  "usage": 0
+}
