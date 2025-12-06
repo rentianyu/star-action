@@ -1,0 +1,16 @@
+{
+  "request_id": "855980252504309760",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/12/07/OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1080.jpg",
+    "startdate": "20251206",
+    "enddate": "20251207",
+    "copyright": "雪中的故宫，中国北京 (© Ian.CuiYi/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1080.jpg"
+  },
+  "time": 1765041595,
+  "usage": 0
+}
