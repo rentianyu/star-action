@@ -1,0 +1,16 @@
+{
+  "request_id": "858504323554226176",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/12/13/OHR.YosemiteWinter_ZH-CN3824387818_1920x1080.jpg",
+    "startdate": "20251212",
+    "enddate": "20251213",
+    "copyright": "默塞德河, 优胜美地国家公园, 加利福尼亚, 美国 (© Ron and Patty Thomas/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.YosemiteWinter_ZH-CN3824387818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.YosemiteWinter_ZH-CN3824387818_1920x1080.jpg"
+  },
+  "time": 1765643380,
+  "usage": 0
+}
