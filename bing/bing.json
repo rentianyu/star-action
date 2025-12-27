@@ -1,0 +1,16 @@
+{
+  "request_id": "863681901084139520",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2025/12/28/OHR.RuffedLemur_ZH-CN5636795490_1920x1080.jpg",
+    "startdate": "20251227",
+    "enddate": "20251228",
+    "copyright": "马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.RuffedLemur_ZH-CN5636795490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.RuffedLemur_ZH-CN5636795490_1920x1080.jpg"
+  },
+  "time": 1766877811,
+  "usage": 0
+}
