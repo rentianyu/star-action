@@ -1,0 +1,16 @@
+{
+  "request_id": "866432384846069760",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/01/04/OHR.KingMountain_ZH-CN0397508222_1920x1080.jpg",
+    "startdate": "20260103",
+    "enddate": "20260104",
+    "copyright": "国王山, 楚加奇山脉, 阿拉斯加, 美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+    "bing": "https://cn.bing.com//th?id=OHR.KingMountain_ZH-CN0397508222_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.KingMountain_ZH-CN0397508222_1920x1080.jpg"
+  },
+  "time": 1767533578,
+  "usage": 0
+}
