@@ -1,0 +1,16 @@
+{
+  "request_id": "869087476888494080",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/01/12/OHR.SnowOtters_ZH-CN3563991803_1920x1080.jpg",
+    "startdate": "20260111",
+    "enddate": "20260112",
+    "copyright": "欧亚水獭和幼崽, 爱沙尼亚 (© Sven Zacek/naturepl.com)",
+    "bing": "https://cn.bing.com//th?id=OHR.SnowOtters_ZH-CN3563991803_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.SnowOtters_ZH-CN3563991803_1920x1080.jpg"
+  },
+  "time": 1768166601,
+  "usage": 0
+}
