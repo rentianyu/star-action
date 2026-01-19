@@ -1,0 +1,16 @@
+{
+  "request_id": "871698656371654656",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/01/19/OHR.BubblesAbraham_ZH-CN7203734882_1920x1080.jpg",
+    "startdate": "20260118",
+    "enddate": "20260119",
+    "copyright": "亚伯拉罕湖冰封景象，艾伯塔省，加拿大 (© Luis F Arevalo/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.BubblesAbraham_ZH-CN7203734882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.BubblesAbraham_ZH-CN7203734882_1920x1080.jpg"
+  },
+  "time": 1768789155,
+  "usage": 0
+}
