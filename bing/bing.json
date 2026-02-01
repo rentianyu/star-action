@@ -1,0 +1,16 @@
+{
+  "request_id": "876547417647570944",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/02/01/OHR.Olinda_ZH-CN6216385346_1920x1080.jpg",
+    "startdate": "20260131",
+    "enddate": "20260201",
+    "copyright": "奥林达的彩色房子, 巴西 (© Robert Pekar/Alamy)",
+    "bing": "https://cn.bing.com//th?id=OHR.Olinda_ZH-CN6216385346_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.Olinda_ZH-CN6216385346_1920x1080.jpg"
+  },
+  "time": 1769945189,
+  "usage": 0
+}
