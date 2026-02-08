@@ -1,0 +1,16 @@
+{
+  "request_id": "879175997374717952",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/02/09/OHR.LeopardCat_ZH-CN4431427444_1920x1080.jpg",
+    "startdate": "20260208",
+    "enddate": "20260209",
+    "copyright": "阿穆尔豹猫，俄罗斯 (© Valeriy Maleev/naturepl.com)",
+    "bing": "https://cn.bing.com//th?id=OHR.LeopardCat_ZH-CN4431427444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.LeopardCat_ZH-CN4431427444_1920x1080.jpg"
+  },
+  "time": 1770571892,
+  "usage": 0
+}
