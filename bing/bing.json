@@ -1,0 +1,16 @@
+{
+  "request_id": "881803589728358400",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/02/16/OHR.ChineseNewYearEveY26_ZH-CN7770318975_1920x1080.jpg",
+    "startdate": "20260215",
+    "enddate": "20260216",
+    "copyright": "庆祝春节的龙形灯笼，中国西安 (© Pan Hong/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.ChineseNewYearEveY26_ZH-CN7770318975_1920x1080.jpg"
+  },
+  "time": 1771198358,
+  "usage": 0
+}
