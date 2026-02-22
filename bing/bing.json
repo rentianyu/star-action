@@ -1,0 +1,16 @@
+{
+  "request_id": "884249030312030208",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/02/23/OHR.BavariaEgret_ZH-CN0521643213_1920x1080.jpg",
+    "startdate": "20260222",
+    "enddate": "20260223",
+    "copyright": "大白鹭，上巴伐利亚州，德国 (© Konrad Wothe/naturepl.com)",
+    "bing": "https://cn.bing.com//th?id=OHR.BavariaEgret_ZH-CN0521643213_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.BavariaEgret_ZH-CN0521643213_1920x1080.jpg"
+  },
+  "time": 1771781397,
+  "usage": 0
+}
