@@ -1,0 +1,16 @@
+{
+  "request_id": "891935591323090945",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/03/16/OHR.PandaForest_ZH-CN0545156080_1920x1080.jpg",
+    "startdate": "20260315",
+    "enddate": "20260316",
+    "copyright": "正在吃竹子的大熊猫，中国 (© Entwicklungsknecht/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.PandaForest_ZH-CN0545156080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.PandaForest_ZH-CN0545156080_1920x1080.jpg"
+  },
+  "time": 1773614016,
+  "usage": 0
+}
