@@ -1,0 +1,16 @@
+{
+  "request_id": "910980636379148288",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/05/07/OHR.Kofa_ZH-CN0584573563_1920x1080.jpg",
+    "startdate": "20260506",
+    "enddate": "20260507",
+    "copyright": "科法国家野生动物保护区，亚利桑那州，美国 (© Denis Tangney Jr/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.Kofa_ZH-CN0584573563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.Kofa_ZH-CN0584573563_1920x1080.jpg"
+  },
+  "time": 1778154708,
+  "usage": 0
+}
