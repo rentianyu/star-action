@@ -1,0 +1,16 @@
+{
+  "request_id": "916072813107671040",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/05/21/OHR.SichuanTea_ZH-CN6703437873_1920x1080.jpg",
+    "startdate": "20260520",
+    "enddate": "20260521",
+    "copyright": "四川省的茶梯田, 中国 (© lzf/Shutterstock)",
+    "bing": "https://cn.bing.com//th?id=OHR.SichuanTea_ZH-CN6703437873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.SichuanTea_ZH-CN6703437873_1920x1080.jpg"
+  },
+  "time": 1779368778,
+  "usage": 0
+}
