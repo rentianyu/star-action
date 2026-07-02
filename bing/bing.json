@@ -1,0 +1,16 @@
+{
+  "request_id": "931279252869337089",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/07/02/OHR.TempleEsna_ZH-CN9834689523_1920x1080.jpg",
+    "startdate": "20260701",
+    "enddate": "20260702",
+    "copyright": "埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.TempleEsna_ZH-CN9834689523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.TempleEsna_ZH-CN9834689523_1920x1080.jpg"
+  },
+  "time": 1782994276,
+  "usage": 0
+}
