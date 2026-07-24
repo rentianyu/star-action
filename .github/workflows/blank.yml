@@ -1,0 +1,45 @@
+name: CI
+on:
+  push:
+    branches: [ main ]
+  watch:
+    types: [started]
+  schedule:
+    - cron: 0 * * * *
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: 'main'
+        persist-credentials: false
+        fetch-depth: 0
+        
+    - name: Create local changes
+      run: |
+        sudo rm -rf /etc/localtime
+        sudo ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+        sudo apt install -y dos2unix
+        sudo bash main.sh ${{ secrets.ALAPI }}
+        date +%Y.%m.%d_%T_执行成功>>run.log
+        
+    - name: Commit files
+      run: |
+        git config --local user.email ${{ secrets.MAIL }}
+        git config --local user.name ${{ secrets.NAME }}
+        git commit -m "Add changes" -a
+        git checkout --orphan new_branch
+        git add -A
+        git commit -am 'Add changes'
+        git branch -D main
+        git branch -m main
+        git branch -M main
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+        force : true

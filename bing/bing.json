@@ -1,0 +1,16 @@
+{
+  "request_id": "939302707840864256",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/07/24/OHR.GalapagosFlamingos_ZH-CN1152519387_1920x1080.jpg",
+    "startdate": "20260723",
+    "enddate": "20260724",
+    "copyright": "美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)",
+    "bing": "https://cn.bing.com//th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.GalapagosFlamingos_ZH-CN1152519387_1920x1080.jpg"
+  },
+  "time": 1784907216,
+  "usage": 0
+}

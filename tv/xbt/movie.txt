@@ -1,0 +1,10 @@
+
+电影,#genre#
+哈1:神秘的魔法石,https://vip.lzcdn2.com/20220322/232_ac9f7a56/1200k/hls/mixed.m3u8
+哈2:消失的密室,https://vip.ffzy-play6.com/20221017/3_07e483ef/2000k/hls/index.m3u8
+哈3:阿兹卡班的逃犯,https://vip.ffzy-play6.com/20221017/5_168816b0/2000k/hls/index.m3u8
+哈4:火杯的考验,https://vip.ffzy-play6.com/20221017/7_585834fc/2000k/hls/index.m3u8
+哈5:凤凰会的密令,https://vip.ffzy-play6.com/20221126/8435_83c99549/2000k/hls/index.m3u8
+哈6:混血王子的背叛,https://vip.ffzy-play6.com/20221126/8437_6089bc80/2000k/hls/index.m3u8
+哈7:死神的圣物1,https://vip.ffzy-play6.com/20221126/8438_6f48ef65/2000k/hls/index.m3u8
+哈7:死神的圣物2,https://vip.ffzy-play6.com/20221019/156_7211d753/2000k/hls/index.m3u8
