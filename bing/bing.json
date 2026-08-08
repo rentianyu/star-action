@@ -1,0 +1,16 @@
+{
+  "request_id": "944768955264438272",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/08/09/OHR.JMTjibaou_ZH-CN6992670356_1920x1080.jpg",
+    "startdate": "20260808",
+    "enddate": "20260809",
+    "copyright": "让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)",
+    "bing": "https://cn.bing.com//th?id=OHR.JMTjibaou_ZH-CN6992670356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.JMTjibaou_ZH-CN6992670356_1920x1080.jpg"
+  },
+  "time": 1786210471,
+  "usage": 0
+}
