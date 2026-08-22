@@ -1,0 +1,16 @@
+{
+  "request_id": "949826014953000960",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/08/22/OHR.CommonBlue_ZH-CN8521430009_1920x1080.jpg",
+    "startdate": "20260821",
+    "enddate": "20260822",
+    "copyright": "普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)",
+    "bing": "https://cn.bing.com//th?id=OHR.CommonBlue_ZH-CN8521430009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.CommonBlue_ZH-CN8521430009_1920x1080.jpg"
+  },
+  "time": 1787416168,
+  "usage": 0
+}
