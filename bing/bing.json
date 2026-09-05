@@ -1,0 +1,16 @@
+{
+  "request_id": "954935950718283776",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/09/06/OHR.LakeFyans_ZH-CN1067187791_1920x1080.jpg",
+    "startdate": "20260905",
+    "enddate": "20260906",
+    "copyright": "菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚 (© tracielouise/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.LakeFyans_ZH-CN1067187791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.LakeFyans_ZH-CN1067187791_1920x1080.jpg"
+  },
+  "time": 1788634472,
+  "usage": 0
+}
