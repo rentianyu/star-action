@@ -1,0 +1,16 @@
+{
+  "request_id": "962516998315597824",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/09/25/OHR.MidAutumn2026_ZH-CN8947536773_1920x1080.jpg",
+    "startdate": "20260924",
+    "enddate": "20260925",
+    "copyright": "庆祝中秋节的中国灯笼 (© LeeYiuTung/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.MidAutumn2026_ZH-CN8947536773_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.MidAutumn2026_ZH-CN8947536773_1920x1080.jpg"
+  },
+  "time": 1790441935,
+  "usage": 0
+}
