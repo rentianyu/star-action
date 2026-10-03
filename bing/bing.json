@@ -1,0 +1,16 @@
+{
+  "request_id": "965154707660251137",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/10/04/OHR.ArtemisRocket_ZH-CN1768541365_1920x1080.jpg",
+    "startdate": "20261003",
+    "enddate": "20261004",
+    "copyright": "阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.ArtemisRocket_ZH-CN1768541365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.ArtemisRocket_ZH-CN1768541365_1920x1080.jpg"
+  },
+  "time": 1791070814,
+  "usage": 0
+}
