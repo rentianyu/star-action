@@ -1,0 +1,16 @@
+{
+  "request_id": "967611274569637888",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/10/11/OHR.BabcockSP_ZH-CN5266848536_1920x1080.jpg",
+    "startdate": "20261010",
+    "enddate": "20261011",
+    "copyright": "格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.BabcockSP_ZH-CN5266848536_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.BabcockSP_ZH-CN5266848536_1920x1080.jpg"
+  },
+  "time": 1791656505,
+  "usage": 0
+}
