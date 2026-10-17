@@ -1,0 +1,16 @@
+{
+  "request_id": "970115822243864576",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/10/17/OHR.ChauvetPaintingsFrance_ZH-CN3150703955_1920x1080.jpg",
+    "startdate": "20261016",
+    "enddate": "20261017",
+    "copyright": "肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy)",
+    "bing": "https://cn.bing.com//th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.ChauvetPaintingsFrance_ZH-CN3150703955_1920x1080.jpg"
+  },
+  "time": 1792253635,
+  "usage": 0
+}
