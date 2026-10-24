@@ -1,0 +1,16 @@
+{
+  "request_id": "972679135338246144",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/10/25/OHR.MaligneFest_ZH-CN8343066766_1920x1080.jpg",
+    "startdate": "20261024",
+    "enddate": "20261025",
+    "copyright": "玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.MaligneFest_ZH-CN8343066766_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.MaligneFest_ZH-CN8343066766_1920x1080.jpg"
+  },
+  "time": 1792864777,
+  "usage": 0
+}
