@@ -1,0 +1,16 @@
+{
+  "request_id": "977585525058416640",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/11/07/OHR.DakotaBison_ZH-CN2302503868_1920x1080.jpg",
+    "startdate": "20261106",
+    "enddate": "20261107",
+    "copyright": "草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国 (© Tandem Stock/Adobe Stock)",
+    "bing": "https://cn.bing.com//th?id=OHR.DakotaBison_ZH-CN2302503868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.DakotaBison_ZH-CN2302503868_1920x1080.jpg"
+  },
+  "time": 1794034551,
+  "usage": 0
+}
