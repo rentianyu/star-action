@@ -1,0 +1,8 @@
+{
+  "error": "all candidates failed",
+  "target": "https://v2.api-m.com/api/history",
+  "tried": [
+    "https://v2.api-m.com/api/history"
+  ],
+  "timeoutMs": 30000
+}

@@ -1,0 +1,16 @@
+{
+  "request_id": "982697067233869824",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/11/21/OHR.RedNice_ZH-CN3518429866_1920x1080.jpg",
+    "startdate": "20261120",
+    "enddate": "20261121",
+    "copyright": "法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯 (© Siripong Kaewla-iad/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.RedNice_ZH-CN3518429866_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.RedNice_ZH-CN3518429866_1920x1080.jpg"
+  },
+  "time": 1795253245,
+  "usage": 0
+}
