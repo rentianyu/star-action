@@ -1,0 +1,13 @@
+#!/bin/bash
+cd "$(dirname "$0")" || exit
+
+curl -L "https://60s.viki.moe/?encoding=text" > 60s.txt
+t=$(sed "s|^|<p>|g;s|$|</p>|g" 60s.txt)
+(cat 60s.tmp.xml;echo "$t";echo '                    </content:encoded>
+		
+
+	</channel>
+</rss>' ) > 60s.xml
+
+d=$(sed -n '1p' 60s.txt)
+sed -i "s/日期/$d/" 60s.xml

@@ -1,0 +1,16 @@
+{
+  "request_id": "985242028866998272",
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "data": {
+    "url": "https://file.alapi.cn/bing/2026/11/28/OHR.VltavaPrague_ZH-CN9898139716_1920x1080.jpg",
+    "startdate": "20261127",
+    "enddate": "20261128",
+    "copyright": "捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images)",
+    "bing": "https://cn.bing.com//th?id=OHR.VltavaPrague_ZH-CN9898139716_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+    "th": "OHR.VltavaPrague_ZH-CN9898139716_1920x1080.jpg"
+  },
+  "time": 1795860004,
+  "usage": 0
+}
